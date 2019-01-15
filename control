@@ -1,0 +1,10 @@
+Package: ch.bonventre.noicloudinsettings
+Name: NoiCloudInSettings
+Depends: firmware (>= 11.0), mobilesubstrate, curl
+Architecture: iphoneos-arm
+Description: Hides the iCloud tab within Settings.app
+Depiction: Hides the iCloud tab within Settings.app
+Maintainer: Leroy <admin@bonventre.ch>
+Author: Leroy <admin@bonventre.ch>
+Section: Tweaks
+Version: 0.0.3
